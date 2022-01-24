@@ -11,6 +11,8 @@ Azure Service Used: QnA Maker
 
 Project URL: https://telegram.me/OnATech_bot
 
+Video URL: https://drive.google.com/file/d/1dwBjZ9dJedx-Inh4yGvh8znfWB6EMkSf/view?usp=sharing
+
 Screenshots:
 ![1](https://user-images.githubusercontent.com/92760071/150723294-44e63c10-06bd-45ac-a9e8-57432817cf3f.png)
 ![2](https://user-images.githubusercontent.com/92760071/150723312-c35dd656-ae53-433d-9f51-95fe7ba4c556.png)
